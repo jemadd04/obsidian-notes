@@ -22,8 +22,8 @@
 	- Use gcloud commands, cloud console, or API calls to add or remove tags
 
 ### Choosing the right annotation
-<img alt="annotation-flow-chart" src="obsidian://open?vault=jamesobsidian&file=remote-mac%2FGCP%20PCA%2FOverarching%20Principles%2Fchoosing-the-right-annotation.png">
 
+![[choosing-the-right-annotation.png]]
 
 
 
